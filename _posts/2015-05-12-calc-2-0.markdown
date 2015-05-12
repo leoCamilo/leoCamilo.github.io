@@ -3,4 +3,4 @@ published: true
 title: Calc 2.0
 layout: post
 ---
-This version of calculator implements 
+This version is a improvement of a reverse polish notation (RPN) implementation, was included a translater from normal notation to RPN, using parentheses priory, to do this was created a class called AplTradutorNotacao in model layer that is responsible for translate the notations.
