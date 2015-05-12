@@ -9,4 +9,5 @@ New Class Diagram:
 <img src="https://raw.githubusercontent.com/leoCamilo/Calc_2.0/master/Class%20Diagram.png">
 
 <a href="https://github.com/leoCamilo/calc-polonesa-inversa">link to the calc 1.0 repositories</a>
+<br>
 <a href="https://github.com/leoCamilo/Calc_2.0">link to the calc 2.0 repositories</a>
