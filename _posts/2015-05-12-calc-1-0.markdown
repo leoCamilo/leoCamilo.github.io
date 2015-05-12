@@ -1,0 +1,8 @@
+---
+published: true
+title: Calc 1.0
+layout: post
+---
+This project is a implementation of a calculator that uses reverse Polish notation as a input data model, the purpose of use this model is because it's unecessary the use of parentheses, making easier the treatment of expressions, the objective of this work is introduce the MVC (model view control) and project's pattern  concepts.
+
+<img src="https://raw.githubusercontent.com/leoCamilo/calc-polonesa-inversa/master/Caso%20de%20uso.png">
