@@ -4,3 +4,9 @@ title: Calc 2.0
 layout: post
 ---
 This version is a improvement of a reverse polish notation implementation (RPN), was included a translater from normal notation to RPN, using parentheses priority, to do this was created a class called AplTradutorNotacao in model layer that is responsible for translate the notations.
+
+New Class Diagram:
+<img src="https://raw.githubusercontent.com/leoCamilo/Calc_2.0/master/Class%20Diagram.png">
+
+<a href="https://github.com/leoCamilo/calc-polonesa-inversa">link to the calc 1.0 repositories</a>
+<a href="https://github.com/leoCamilo/Calc_2.0">link to the calc 2.0 repositories</a>
